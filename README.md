@@ -15,6 +15,12 @@ Github Link : https://github.com/dawnNM/MemoryGame
 ## Demo Link
 Project Link : https://dawnNM.github.io/MemoryGame/ 
 
+
+---
+
+### Memorygame Demo
+![Memorygame Project Demo](demo/Memorygame.gif)
+
 ---
 
 ## Contributors
